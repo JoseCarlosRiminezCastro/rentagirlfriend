@@ -1,0 +1,502 @@
+{
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/cat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet": {
+    "criteria": {
+      "has_apple": "2024-12-04 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_boots": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_green_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-04 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_apple": "2024-12-04 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-04 22:43:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_boots": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "has_paper": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_hat_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_hat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_sea_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-04 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_blue_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-04 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_red_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-04 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_3": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_yellow_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-04 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2024-12-04 22:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-04 22:43:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/spider_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/spider_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-04 22:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-04 22:45:05 +0000",
+      "minecraft:snowy_beach": "2024-12-04 22:41:52 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "temperature": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2024-12-04 22:41:52 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
