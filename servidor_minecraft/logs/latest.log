@@ -4707,3 +4707,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 18:18:24.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has reached the goal [Flawless Crystals]
 [06Dec2024 18:18:30.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
 [06Dec2024 18:18:30.771] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:18:44.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Spider
+[06Dec2024 18:18:44.143] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:19:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Skeleton
+[06Dec2024 18:19:12.207] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:19:12.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[06Dec2024 18:19:31.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[06Dec2024 18:23:15.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has reached the goal [Flawless Crystals]
+[06Dec2024 18:33:05.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura froze to death
+[06Dec2024 18:33:05.374] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:33:28.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [We Need to Go Deeper]
+[06Dec2024 18:34:05.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Let's fix the broken.]
+[06Dec2024 18:34:17.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
+[06Dec2024 18:34:21.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Spider
+[06Dec2024 18:34:21.928] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:36:30.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[06Dec2024 18:37:32.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Bonk!]

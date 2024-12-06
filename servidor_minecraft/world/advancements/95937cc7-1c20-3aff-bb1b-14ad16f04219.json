@@ -6056,6 +6056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-12-06 18:33:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6107,6 +6113,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-12-06 18:18:24 +0000"
     },
     "done": true
   },
@@ -6167,6 +6179,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-06 17:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-06 18:16:42 +0000"
     },
     "done": true
   },
@@ -6362,6 +6380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-06 18:00:12 +0000"
@@ -6494,6 +6518,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2024-12-06 18:17:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
@@ -6539,6 +6569,12 @@
   "createdeco:recipes/decorations/andesite_trapdoor": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
     },
     "done": true
   },
@@ -6722,6 +6758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-06 18:16:42 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/create.base/crafting/large_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6824,9 +6866,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/brass_hand": {
     "criteria": {
       "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-06 18:16:42 +0000"
     },
     "done": true
   },
@@ -6869,6 +6923,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
     },
     "done": true
   },
@@ -7007,6 +7067,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2024-12-06 16:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
     },
     "done": true
   },
@@ -7196,6 +7262,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-06 16:52:55 +0000"
@@ -7340,6 +7418,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/reforger": {
+    "criteria": {
+      "reforger": "2024-12-06 18:34:05 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_iron_lamp": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
@@ -7355,6 +7439,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-06 18:16:42 +0000"
     },
     "done": true
   },
@@ -7610,6 +7700,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2024-12-06 18:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2024-12-06 17:35:33 +0000"
@@ -7742,6 +7844,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-06 18:16:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_sunny": {
     "criteria": {
       "has_item": "2024-12-06 18:05:43 +0000"
@@ -7844,6 +7952,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2024-12-06 18:17:36 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_shipping_container": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
@@ -7880,6 +7994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-06 18:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-06 17:35:33 +0000"
@@ -7895,6 +8015,12 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2024-12-06 16:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
     },
     "done": true
   },
@@ -8012,6 +8138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/granite_castel_tile_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
@@ -8039,6 +8171,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-06 18:17:36 +0000"
     },
     "done": true
   },
