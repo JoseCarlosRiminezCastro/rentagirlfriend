@@ -4694,3 +4694,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 18:06:55.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
 [06Dec2024 18:07:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Skeleton
 [06Dec2024 18:07:52.570] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:09:07.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nezmanmatalaura> 8 brass funels
+[06Dec2024 18:13:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura fell from a high place
+[06Dec2024 18:13:44.855] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:14:33.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[06Dec2024 18:14:33.071] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:14:52.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[06Dec2024 18:14:52.234] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:15:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[06Dec2024 18:18:12.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[06Dec2024 18:18:12.771] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:18:24.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has reached the goal [Flawless Crystals]
+[06Dec2024 18:18:30.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[06Dec2024 18:18:30.771] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
