@@ -4553,3 +4553,114 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 14:20:25.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alambre> el:hola
 [06Dec2024 14:20:29.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alambre> hola:que
 [06Dec2024 14:20:35.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alambre> que:que
+[06Dec2024 14:21:07.996] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[06Dec2024 14:22:10.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[06Dec2024 14:22:10.573] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 14:22:19.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Zombie
+[06Dec2024 14:22:19.976] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 14:22:26.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was scorched to death
+[06Dec2024 14:22:26.390] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:22:39.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has reached the goal [Exorcism]
+[06Dec2024 14:23:59.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre died of heatstroke
+[06Dec2024 14:23:59.827] [Server thread/INFO] [tombstone/]: The player Alambre has successfully been saved
+[06Dec2024 14:24:13.962] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=-6, z=458}
+[06Dec2024 14:24:13.963] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=182, y=-6, z=460}
+[06Dec2024 14:24:13.963] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=180, y=-6, z=458}
+[06Dec2024 14:24:14.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=619, y=76, z=-373} but found not block entity block Block{minecraft:deepslate_tiles} at location
+[06Dec2024 14:24:14.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:deepslate_tiles} but failed at location BlockPos{x=619, y=76, z=-373}
+[06Dec2024 14:24:14.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=618, y=76, z=-373} but found not block entity block Block{minecraft:cracked_deepslate_tiles} at location
+[06Dec2024 14:24:14.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cracked_deepslate_tiles} but failed at location BlockPos{x=618, y=76, z=-373}
+[06Dec2024 14:24:14.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=622, y=76, z=-373} but found not block entity block Block{minecraft:cracked_deepslate_tiles} at location
+[06Dec2024 14:24:14.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cracked_deepslate_tiles} but failed at location BlockPos{x=622, y=76, z=-373}
+[06Dec2024 14:24:14.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=618, y=76, z=-375} but found not block entity block Block{minecraft:deepslate_tiles} at location
+[06Dec2024 14:24:14.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:deepslate_tiles} but failed at location BlockPos{x=618, y=76, z=-375}
+[06Dec2024 14:24:14.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=619, y=76, z=-379} but found not block entity block Block{minecraft:deepslate_tiles} at location
+[06Dec2024 14:24:14.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:deepslate_tiles} but failed at location BlockPos{x=619, y=76, z=-379}
+[06Dec2024 14:24:14.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=620, y=76, z=-379} but found not block entity block Block{minecraft:deepslate_tiles} at location
+[06Dec2024 14:24:14.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:deepslate_tiles} but failed at location BlockPos{x=620, y=76, z=-379}
+[06Dec2024 14:24:30.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [Diamonds!]
+[06Dec2024 14:24:33.123] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=629, y=76, z=-363} but found not block entity block Block{minecraft:mossy_cobblestone} at location
+[06Dec2024 14:24:33.124] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:mossy_cobblestone} but failed at location BlockPos{x=629, y=76, z=-363}
+[06Dec2024 14:24:33.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=634, y=76, z=-367} but found not block entity block Block{minecraft:mossy_cobblestone} at location
+[06Dec2024 14:24:33.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:mossy_cobblestone} but failed at location BlockPos{x=634, y=76, z=-367}
+[06Dec2024 14:24:33.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=629, y=75, z=-366} but found not block entity block Block{minecraft:air} at location
+[06Dec2024 14:24:33.126] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=629, y=75, z=-366}
+[06Dec2024 14:24:33.126] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=630, y=76, z=-366} but found not block entity block Block{minecraft:mossy_cobblestone} at location
+[06Dec2024 14:24:33.127] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:mossy_cobblestone} but failed at location BlockPos{x=630, y=76, z=-366}
+[06Dec2024 14:24:33.128] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=629, y=75, z=-365} but found not block entity block Block{minecraft:air} at location
+[06Dec2024 14:24:33.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=629, y=75, z=-365}
+[06Dec2024 14:24:33.130] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=634, y=76, z=-364} but found not block entity block Block{minecraft:cobblestone} at location
+[06Dec2024 14:24:33.130] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cobblestone} but failed at location BlockPos{x=634, y=76, z=-364}
+[06Dec2024 14:24:33.130] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=635, y=77, z=-364} but found not block entity block Block{minecraft:stone} at location
+[06Dec2024 14:24:33.131] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=635, y=77, z=-364}
+[06Dec2024 14:24:33.131] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=631, y=76, z=-363} but found not block entity block Block{minecraft:cobblestone} at location
+[06Dec2024 14:24:33.132] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cobblestone} but failed at location BlockPos{x=631, y=76, z=-363}
+[06Dec2024 14:24:33.132] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=632, y=76, z=-363} but found not block entity block Block{minecraft:cobblestone} at location
+[06Dec2024 14:24:33.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cobblestone} but failed at location BlockPos{x=632, y=76, z=-363}
+[06Dec2024 14:24:34.551] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=629, y=77, z=-382} but found not block entity block Block{minecraft:smooth_stone_slab}[type=double,waterlogged=false] at location
+[06Dec2024 14:24:34.551] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smooth_stone_slab}[type=double,waterlogged=false] but failed at location BlockPos{x=629, y=77, z=-382}
+[06Dec2024 14:24:34.551] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=630, y=76, z=-379} but found not block entity block Block{minecraft:cobblestone} at location
+[06Dec2024 14:24:34.551] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cobblestone} but failed at location BlockPos{x=630, y=76, z=-379}
+[06Dec2024 14:24:34.551] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=638, y=76, z=-374} but found not block entity block Block{minecraft:cobblestone} at location
+[06Dec2024 14:24:34.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cobblestone} but failed at location BlockPos{x=638, y=76, z=-374}
+[06Dec2024 14:24:34.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=629, y=77, z=-380} but found not block entity block Block{minecraft:smooth_stone_slab}[type=double,waterlogged=false] at location
+[06Dec2024 14:24:34.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smooth_stone_slab}[type=double,waterlogged=false] but failed at location BlockPos{x=629, y=77, z=-380}
+[06Dec2024 14:24:34.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=635, y=76, z=-380} but found not block entity block Block{minecraft:cobblestone} at location
+[06Dec2024 14:24:34.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cobblestone} but failed at location BlockPos{x=635, y=76, z=-380}
+[06Dec2024 14:24:34.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=633, y=76, z=-381} but found not block entity block Block{minecraft:cobblestone} at location
+[06Dec2024 14:24:34.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cobblestone} but failed at location BlockPos{x=633, y=76, z=-381}
+[06Dec2024 14:24:34.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=630, y=76, z=-372} but found not block entity block Block{minecraft:mossy_cobblestone} at location
+[06Dec2024 14:24:34.553] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:mossy_cobblestone} but failed at location BlockPos{x=630, y=76, z=-372}
+[06Dec2024 14:25:06.566] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[06Dec2024 14:25:06.567] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[06Dec2024 14:25:06.567] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[06Dec2024 14:25:06.567] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[06Dec2024 14:25:06.641] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[06Dec2024 14:25:06.641] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[06Dec2024 14:25:06.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[06Dec2024 14:25:06.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[06Dec2024 14:25:13.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura burned to death
+[06Dec2024 14:25:13.988] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:25:30.212] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[06Dec2024 14:25:30.212] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[06Dec2024 14:25:30.213] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[06Dec2024 14:25:30.213] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[06Dec2024 14:25:30.213] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[06Dec2024 14:25:30.225] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[06Dec2024 14:25:30.225] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[06Dec2024 14:25:30.225] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[06Dec2024 14:25:30.495] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[06Dec2024 14:25:30.495] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[06Dec2024 14:25:30.495] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[06Dec2024 14:25:30.495] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[06Dec2024 14:25:30.496] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[06Dec2024 14:25:30.496] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[06Dec2024 14:25:30.497] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[06Dec2024 14:25:52.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre burned to death
+[06Dec2024 14:25:52.783] [Server thread/INFO] [tombstone/]: The player Alambre has successfully been saved
+[06Dec2024 14:26:55.640] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[06Dec2024 14:27:16.470] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[06Dec2024 14:27:20.286] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[06Dec2024 14:27:29.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[06Dec2024 14:27:40.844] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[06Dec2024 14:27:43.752] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[06Dec2024 14:27:47.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Alambre to Secrethaks]
+[06Dec2024 14:27:47.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[06Dec2024 14:27:50.936] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[06Dec2024 14:28:07.760] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[06Dec2024 14:28:33.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Zombie
+[06Dec2024 14:28:33.975] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:28:45.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Cave Spider
+[06Dec2024 14:28:45.721] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 14:28:55.690] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[06Dec2024 14:28:58.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[06Dec2024 14:29:07.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has made the advancement [Deceived Hopes]
+[06Dec2024 14:29:09.509] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[06Dec2024 14:29:14.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was slain by Cave Spider
+[06Dec2024 14:29:14.047] [Server thread/INFO] [tombstone/]: The player Alambre has successfully been saved
+[06Dec2024 14:29:36.998] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[06Dec2024 14:29:45.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre was slain by Diamond Termite
+[06Dec2024 14:29:45.977] [Server thread/INFO] [tombstone/]: The player Alambre has successfully been saved
+[06Dec2024 14:29:46.884] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[06Dec2024 14:29:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Cave Spider
+[06Dec2024 14:29:49.438] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved

@@ -182,7 +182,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-04 22:45:05 +0000",
+      "minecraft:frozen_river": "2024-12-06 14:27:34 +0000",
       "minecraft:snowy_plains": "2024-12-06 13:40:26 +0000",
+      "minecraft:snowy_taiga": "2024-12-06 14:21:56 +0000",
       "minecraft:frozen_ocean": "2024-12-06 13:36:02 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-06 13:37:09 +0000",
       "minecraft:snowy_beach": "2024-12-04 22:41:52 +0000"
@@ -4378,6 +4380,78 @@
   "knightquest:recipes/misc/shield_boots": {
     "criteria": {
       "has_shield": "2024-12-06 14:05:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2024-12-06 14:20:05 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
     },
     "done": true
   },

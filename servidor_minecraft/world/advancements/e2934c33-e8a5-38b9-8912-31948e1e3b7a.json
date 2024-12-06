@@ -400,7 +400,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2024-12-04 22:51:41 +0000"
+      "rotten_flesh": "2024-12-04 22:51:41 +0000",
+      "carrot": "2024-12-06 14:20:39 +0000"
     },
     "done": false
   },
@@ -3733,6 +3734,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/phantom_helmet": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 14:22:52 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
@@ -3742,6 +3749,18 @@
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_boots": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 14:22:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_chestplate": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 14:22:52 +0000"
     },
     "done": true
   },
@@ -3787,6 +3806,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 14:25:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
@@ -3823,6 +3848,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 14:25:13 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_drakkar": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
@@ -3832,6 +3863,18 @@
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_leggings": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 14:22:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 14:25:13 +0000"
     },
     "done": true
   },
@@ -3889,6 +3932,18 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-06 14:25:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_boots": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 14:22:52 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
@@ -3901,9 +3956,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/sea_chestplate": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 14:22:52 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-06 14:25:01 +0000"
     },
     "done": true
   },
@@ -3925,9 +3992,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2024-12-06 14:22:52 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_brigg": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 14:25:13 +0000"
     },
     "done": true
   },
@@ -3955,6 +4034,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/sea_helmet": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 14:22:52 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
@@ -3964,6 +4049,12 @@
   "smallships:recipes/transportation/birch_drakkar": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_leggings": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 14:22:52 +0000"
     },
     "done": true
   },
