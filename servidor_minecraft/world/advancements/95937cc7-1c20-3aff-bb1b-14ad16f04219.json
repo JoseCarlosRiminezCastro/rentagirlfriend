@@ -1303,7 +1303,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-12-06 13:20:46 +0000"
+      "apple": "2024-12-06 13:20:46 +0000",
+      "golden_apple": "2024-12-06 14:29:22 +0000"
     },
     "done": false
   },
@@ -4383,9 +4384,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2024-12-06 14:29:18 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/evoker_leggings": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2024-12-06 14:29:18 +0000"
     },
     "done": true
   },
@@ -4425,6 +4438,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2024-12-06 14:29:18 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_boots": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
@@ -4440,6 +4459,18 @@
   "knightquest:recipes/misc/evoker_helmet": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-06 14:38:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_chestplate": {
+    "criteria": {
+      "has_golden_apple": "2024-12-06 14:29:18 +0000"
     },
     "done": true
   },

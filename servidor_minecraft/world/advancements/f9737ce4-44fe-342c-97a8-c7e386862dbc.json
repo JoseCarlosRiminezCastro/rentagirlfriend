@@ -1261,6 +1261,7 @@
       "minecraft:skeleton": "2024-12-06 13:34:15 +0000",
       "minecraft:spider": "2024-12-06 13:38:11 +0000",
       "minecraft:witch": "2024-12-06 13:38:52 +0000",
+      "minecraft:cave_spider": "2024-12-06 14:35:33 +0000",
       "minecraft:zombie": "2024-12-06 13:36:09 +0000"
     },
     "done": false
@@ -2915,6 +2916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-06 14:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:18:40 +0000"
@@ -2924,6 +2931,12 @@
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2024-12-06 14:18:40 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mimic": {
+    "criteria": {
+      "kill": "2024-12-06 14:37:15 +0000"
     },
     "done": true
   },
@@ -2939,9 +2952,21 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/misc/synthetic_point": {
+    "criteria": {
+      "has_nugget": "2024-12-06 14:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:18:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 14:38:26 +0000"
     },
     "done": true
   },
@@ -3137,6 +3162,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-06 14:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-06 14:19:01 +0000"
@@ -3215,6 +3246,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-06 14:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-06 14:19:01 +0000"
@@ -3224,6 +3261,12 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-06 14:18:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-06 14:37:20 +0000"
     },
     "done": true
   },
@@ -3302,6 +3345,12 @@
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2024-12-06 14:18:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-06 14:37:20 +0000"
     },
     "done": true
   },
