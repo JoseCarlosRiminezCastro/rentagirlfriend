@@ -6019,6 +6019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6043,9 +6049,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2024-12-06 16:43:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6058,6 +6076,24 @@
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2024-12-06 16:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-06 17:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-06 17:33:25 +0000"
     },
     "done": true
   },
@@ -6133,6 +6169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-06 17:38:18 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_down": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
@@ -6148,6 +6190,18 @@
   "mcwholidays:recipes/christmas_pack": {
     "criteria": {
       "has_planks": "2024-12-06 17:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/stone_cross": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6175,6 +6229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/lime_shipping_container": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
@@ -6187,6 +6247,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6196,6 +6262,18 @@
   "createdeco:recipes/decorations/andesite_bars": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/sacrificial_dagger": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-06 17:33:25 +0000"
     },
     "done": true
   },
@@ -6247,9 +6325,21 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2024-12-06 17:41:41 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_left": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/wooden_cross": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6277,6 +6367,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2024-12-06 17:35:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/andesite_support": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6286,6 +6388,12 @@
   "ad_astra:recipes/misc/iron_factory_block": {
     "criteria": {
       "has_iron_factory_block": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6337,6 +6445,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/create.base/crafting/large_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6358,6 +6478,12 @@
   "knightquest:recipes/misc/nail_sword": {
     "criteria": {
       "has_iron_block": "2024-12-06 16:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
     },
     "done": true
   },
@@ -6415,6 +6541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6451,6 +6583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2024-12-06 16:43:42 +0000"
@@ -6460,6 +6598,18 @@
   "createdeco:recipes/decorations/decal_fire": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/small_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6475,9 +6625,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6493,6 +6655,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6505,9 +6679,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-06 17:38:18 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-06 16:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
     },
     "done": true
   },
@@ -6523,6 +6715,18 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/andesite_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6535,6 +6739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-06 17:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-06 16:52:55 +0000"
@@ -6544,6 +6754,18 @@
   "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-06 17:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6595,9 +6817,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/encased_iron_block": {
     "criteria": {
       "has_encased_iron_block": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2024-12-06 17:35:51 +0000"
     },
     "done": true
   },
@@ -6607,9 +6841,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/wrench": {
     "criteria": {
       "has_wrench": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2024-12-06 17:41:22 +0000"
     },
     "done": true
   },
@@ -6631,15 +6877,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
     "criteria": {
       "has_item": "2024-12-06 16:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
     },
     "done": true
   },
@@ -6661,6 +6925,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/large_shaftless_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6679,6 +6955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-06 17:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-06 16:36:25 +0000"
@@ -6688,6 +6970,12 @@
   "createdeco:recipes/decorations/iron_sheet_metal": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_boots": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6733,6 +7021,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_fluid": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
@@ -6757,6 +7057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-06 17:38:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-12-06 16:38:29 +0000"
@@ -6766,6 +7072,12 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6799,6 +7111,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
@@ -6823,9 +7141,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-12-06 17:35:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/tall_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/fractured_nullstone": {
+    "criteria": {
+      "amphibious_hands": "2024-12-06 17:31:13 +0000"
     },
     "done": true
   },
@@ -6847,6 +7189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2024-12-06 16:43:39 +0000"
@@ -6862,6 +7210,12 @@
   "createdeco:recipes/decorations/red_iron_lamp": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/flat_dirt_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6889,6 +7243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6907,15 +7267,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brown_shipping_container": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-06 17:38:17 +0000"
     },
     "done": true
   },
@@ -6940,6 +7318,12 @@
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_chestplate": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -6973,6 +7357,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-06 17:35:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-12-06 16:38:29 +0000"
@@ -6985,9 +7375,45 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_leggings": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/flat_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/orange_shipping_container": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2024-12-06 17:33:25 +0000"
     },
     "done": true
   },
@@ -6997,9 +7423,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/slanted_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-06 17:38:17 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/square_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -7009,15 +7471,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_andesite_lamp": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/silverfish_helmet": {
+    "criteria": {
+      "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:35:33 +0000"
     },
     "done": true
   },
@@ -7036,6 +7516,12 @@
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2024-12-06 16:43:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-06 17:33:25 +0000"
     },
     "done": true
   },

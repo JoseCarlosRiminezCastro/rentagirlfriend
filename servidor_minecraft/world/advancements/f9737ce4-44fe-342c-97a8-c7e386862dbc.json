@@ -5374,6 +5374,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-06 17:27:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_pillar_trim": {
     "criteria": {
       "has_granite_pillar_trim": "2024-12-06 17:18:15 +0000"
@@ -5860,6 +5866,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 17:30:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-06 17:18:15 +0000"
@@ -5959,6 +5971,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-06 17:15:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-06 17:34:01 +0000"
     },
     "done": true
   },
@@ -6301,6 +6319,12 @@
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]": "2024-12-06 17:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-06 17:31:48 +0000"
     },
     "done": true
   },
@@ -6772,6 +6796,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-06 17:34:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
@@ -6832,6 +6862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-06 17:31:48 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/horn_leggings": {
     "criteria": {
       "has_sand": "2024-12-06 16:40:26 +0000"
@@ -6865,6 +6901,12 @@
   "design_decor:recipes/building_blocks/granite_castel_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-06 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/obsidian_to_netherite_conversion_kit": {
+    "criteria": {
+      "has_item": "2024-12-06 17:31:48 +0000"
     },
     "done": true
   },

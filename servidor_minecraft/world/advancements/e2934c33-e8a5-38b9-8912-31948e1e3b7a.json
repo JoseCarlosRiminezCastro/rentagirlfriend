@@ -5199,6 +5199,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2024-12-06 17:38:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/horn_boots": {
     "criteria": {
       "has_sand": "2024-12-06 17:21:10 +0000"
@@ -5229,15 +5247,63 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2024-12-06 17:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-06 17:22:12 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-06 17:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-06 17:43:15 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/deepslate_castel_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_chestplate": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-06 17:34:14 +0000"
     },
     "done": true
   },
@@ -5253,9 +5319,27 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-06 16:53:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-06 17:34:14 +0000"
     },
     "done": true
   },
@@ -5268,6 +5352,30 @@
   "createbigcannons:recipes/misc/casting_sand": {
     "criteria": {
       "has_sand": "2024-12-06 17:21:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/deepslate_castel_tiles_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
     },
     "done": true
   },
@@ -5295,9 +5403,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-06 16:53:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5322,6 +5442,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-06 17:22:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5352,6 +5478,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 17:21:10 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5397,6 +5529,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 17:21:10 +0000"
@@ -5433,9 +5571,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-06 16:53:05 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5463,15 +5613,51 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shinobi_boots": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-06 17:34:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 17:21:10 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_boots": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-06 17:34:14 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/diorite_castel_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-06 16:53:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5490,6 +5676,12 @@
   "design_decor:recipes/building_blocks/diorite_castel_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-06 16:53:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5517,9 +5709,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-06 16:46:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/deepslate_castel_tile_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-06 17:33:22 +0000"
     },
     "done": true
   },
@@ -5541,15 +5763,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/evoker_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 17:31:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-06 16:53:05 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2024-12-06 17:38:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-06 16:46:45 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5583,6 +5823,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-06 17:21:10 +0000"
@@ -5601,15 +5847,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-06 16:53:05 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2024-12-06 17:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-06 17:15:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-06 17:34:14 +0000"
     },
     "done": true
   },
@@ -5628,6 +5898,18 @@
   "knightquest:recipes/misc/husk_helmet": {
     "criteria": {
       "has_sandstone": "2024-12-06 17:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 17:31:13 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/deepslate_castel_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
     },
     "done": true
   },
@@ -5661,6 +5943,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2024-12-06 17:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 17:21:10 +0000"
@@ -5670,6 +5958,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-06 16:48:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5700,6 +5994,24 @@
   "knightquest:recipes/misc/husk_leggings": {
     "criteria": {
       "has_sandstone": "2024-12-06 17:22:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver_heavy_axe": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-06 17:34:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5763,9 +6075,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 16:46:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-06 17:34:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2024-12-06 17:40:00 +0000"
     },
     "done": true
   },
@@ -5781,9 +6111,27 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-06 17:33:22 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_helmet3": {
     "criteria": {
       "has_sandstone": "2024-12-06 17:22:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/deepslate_castel_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
     },
     "done": true
   },
@@ -5793,9 +6141,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-06 17:44:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-06 16:46:45 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/tuff_castel_tiles_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5841,6 +6201,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2024-12-06 17:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-06 17:23:58 +0000"
@@ -5850,6 +6216,30 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 17:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 17:31:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 17:31:13 +0000"
     },
     "done": true
   },
@@ -5865,9 +6255,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-06 17:34:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-12-06 17:21:10 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/deepslate_castel_tile_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
     },
     "done": true
   },
@@ -5889,6 +6291,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/veteran_chestplate": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-06 17:34:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_andesite_corner_trim": "2024-12-06 16:46:45 +0000"
@@ -5898,6 +6312,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 16:46:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
@@ -5925,15 +6345,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/evoker_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 17:31:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 17:31:13 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/diorite_castel_tile_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-06 16:53:05 +0000"
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/tuff_castel_tile_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/andesite_castel_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-06 16:46:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-06 17:33:01 +0000"
     },
     "done": true
   },
@@ -5946,6 +6390,12 @@
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-06 16:53:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
     },
     "done": true
   },
@@ -5979,6 +6429,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-06 16:46:45 +0000"
@@ -5991,9 +6447,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-06 16:46:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/deepslate_castel_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
     },
     "done": true
   },
@@ -6006,6 +6492,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2024-12-06 17:21:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-06 17:34:23 +0000"
     },
     "done": true
   },
@@ -6033,15 +6525,51 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/deepslate_castel_tile_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2024-12-06 17:40:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_chestplate": {
     "criteria": {
       "has_sandstone": "2024-12-06 17:22:12 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 17:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-06 17:33:22 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/horn_leggings": {
     "criteria": {
       "has_sand": "2024-12-06 17:21:10 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/obsidian_to_netherite_conversion_kit": {
+    "criteria": {
+      "has_item": "2024-12-06 17:33:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-06 17:35:42 +0000"
     },
     "done": true
   },
