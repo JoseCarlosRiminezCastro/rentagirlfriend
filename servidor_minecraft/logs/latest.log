@@ -4739,3 +4739,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 18:59:40.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
 [06Dec2024 18:59:40.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
 [06Dec2024 18:59:40.628] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 19:10:03.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Timed out
+[06Dec2024 19:10:03.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
+[06Dec2024 19:10:03.910] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Secrethaks
+[06Dec2024 19:10:14.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> a
+[06Dec2024 19:10:19.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Secrethaks[/100.69.93.126:54320] logged in with entity id 46746 at (617.6999999880791, 66.0, 270.5386427699104)
+[06Dec2024 19:10:19.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks joined the game
+[06Dec2024 19:10:19.885] [Server thread/INFO] [Jade/]: Syncing config to Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a)
+[06Dec2024 19:10:20.059] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Secrethaks (18)
+[06Dec2024 19:10:20.059] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 19:10:31.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 19:10:32.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 19:10:32.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 19:15:43.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Snowy Enderman
+[06Dec2024 19:15:43.727] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 19:16:13.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has reached the goal [Arachnophobe's Nightmare]
+[06Dec2024 19:17:14.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 19:17:52.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [The Copper Age]
+[06Dec2024 19:19:29.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [A Seedy Place]

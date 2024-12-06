@@ -6110,6 +6110,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2024-12-06 19:11:49 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_bars_overlay": {
     "criteria": {
       "has_item": "2024-12-06 18:56:43 +0000"
@@ -6938,6 +6944,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-06 19:10:45 +0000"
+    },
+    "done": false
+  },
   "create:rose_quartz": {
     "criteria": {
       "0": "2024-12-06 18:38:06 +0000"
@@ -7001,6 +7013,12 @@
   "knightquest:recipes/misc/nail_glaive": {
     "criteria": {
       "has_iron_block": "2024-12-06 16:52:55 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/big_cannon_sheet_inexpensive": {
+    "criteria": {
+      "has_inexpensive_big_cartridge_sheet": "2024-12-06 19:10:04 +0000"
     },
     "done": true
   },
@@ -7286,6 +7304,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-06 19:10:04 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_andesite_lamp": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -7523,6 +7547,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-12-06 19:16:31 +0000"
     },
     "done": true
   },
@@ -7835,6 +7865,12 @@
   "knightquest:recipes/misc/polar_helmet": {
     "criteria": {
       "has_iron_axe": "2024-12-06 16:43:27 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-12-06 19:16:58 +0000"
     },
     "done": true
   },
