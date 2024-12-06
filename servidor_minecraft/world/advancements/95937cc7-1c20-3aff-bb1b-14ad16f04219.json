@@ -6110,6 +6110,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_bars_overlay": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-06 17:33:25 +0000"
@@ -6137,6 +6143,12 @@
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -6173,6 +6185,12 @@
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2024-12-06 16:43:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -6245,6 +6263,12 @@
   "createdeco:recipes/decorations/decal_warning": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/copper_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 19:06:49 +0000"
     },
     "done": true
   },
@@ -6350,6 +6374,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/gray_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
@@ -6422,6 +6452,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_pillar_trim": {
     "criteria": {
       "has_granite_pillar_trim": "2024-12-06 18:00:13 +0000"
@@ -6455,6 +6491,12 @@
   "createdeco:recipes/decorations/decal_cross": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_mesh_fence": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -6623,6 +6665,12 @@
   "createdeco:recipes/decorations/brass_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -6830,6 +6878,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/blue_brass_lamp": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-06 17:48:36 +0000"
@@ -6920,6 +6974,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_brass_lamp": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/cyan_shipping_container": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
@@ -6953,6 +7013,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -7049,6 +7115,12 @@
   "create:recipes/misc/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/gold_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 19:06:49 +0000"
     },
     "done": true
   },
@@ -7160,6 +7232,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/blue_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-06 17:38:18 +0000"
@@ -7169,6 +7247,12 @@
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -7262,6 +7346,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/light_blue_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-06 16:52:55 +0000"
@@ -7316,6 +7406,12 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/obsidian_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 19:06:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_smooth_stone_slab": "2024-12-06 16:34:00 +0000"
@@ -7343,6 +7439,12 @@
   "railways:recipes/misc/crafting/semaphore": {
     "criteria": {
       "has_item": "2024-12-06 18:39:04 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -7568,6 +7670,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/orange_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/iron_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 19:06:49 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/granite_castel_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
@@ -7676,6 +7790,12 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_previous_block": "2024-12-06 19:06:49 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -7715,6 +7835,12 @@
   "knightquest:recipes/misc/polar_helmet": {
     "criteria": {
       "has_iron_axe": "2024-12-06 16:43:27 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -7835,6 +7961,18 @@
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_forge": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_support_wedge": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -8006,6 +8144,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/green_brass_lamp": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-06 17:33:25 +0000"
@@ -8051,6 +8195,12 @@
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/diamond_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 19:06:49 +0000"
     },
     "done": true
   },
@@ -8111,6 +8261,12 @@
   "createdeco:recipes/decorations/pink_shipping_container": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -8204,6 +8360,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_brass_lamp": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-06 17:38:17 +0000"
@@ -8267,6 +8429,12 @@
   "createdeco:recipes/decorations/light_gray_shipping_container": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },
@@ -8354,6 +8522,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-06 19:06:49 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2024-12-06 17:35:33 +0000"
@@ -8396,15 +8570,33 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/netherite_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 19:06:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/orange_shipping_container": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 19:06:49 +0000"
     },
     "done": true
   },
@@ -8534,6 +8726,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/big_cartridge_sheet": {
+    "criteria": {
+      "has_brass_sheet": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -8549,6 +8747,18 @@
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2024-12-06 16:52:55 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_sheet_metal": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-06 19:06:49 +0000"
     },
     "done": true
   },
@@ -8585,6 +8795,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-06 17:23:14 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:56:43 +0000"
     },
     "done": true
   },

@@ -4735,3 +4735,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 18:49:13.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [The Brass Age]
 [06Dec2024 18:53:24.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to Secrethaks]
 [06Dec2024 18:58:25.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 18:59:37.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[06Dec2024 18:59:40.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[06Dec2024 18:59:40.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[06Dec2024 18:59:40.628] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
