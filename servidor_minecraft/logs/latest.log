@@ -4476,3 +4476,69 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 16:35:20.307] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
 [06Dec2024 16:36:00.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura drowned
 [06Dec2024 16:36:00.835] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 16:36:39.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was killed by Cecaelia using magic
+[06Dec2024 16:36:39.211] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 16:37:00.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[06Dec2024 16:37:00.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[06Dec2024 16:37:00.530] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 16:37:07.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura drowned whilst trying to escape Cecaelia
+[06Dec2024 16:37:07.719] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 16:37:11.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
+[06Dec2024 16:37:24.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 16:37:51.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 16:38:13.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> dried kelp
+[06Dec2024 16:43:04.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Secrethaks[/100.69.93.126:49369] logged in with entity id 9941 at (623.7909680270059, 60.0, 263.1114739532697)
+[06Dec2024 16:43:04.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks joined the game
+[06Dec2024 16:43:04.317] [Server thread/INFO] [Jade/]: Syncing config to Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a)
+[06Dec2024 16:43:05.215] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Secrethaks (18)
+[06Dec2024 16:43:05.216] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 16:43:17.071] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 16:43:18.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 16:43:18.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 16:43:27.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [How'd You Get This?]
+[06Dec2024 16:43:39.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [The Andesite Age]
+[06Dec2024 16:48:53.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to Secrethaks]
+[06Dec2024 16:49:54.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 16:53:52.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [The Andesite Age]
+[06Dec2024 16:54:15.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 16:56:06.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 16:58:07.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 17:02:44.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[06Dec2024 17:02:51.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[06Dec2024 17:02:51.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[06Dec2024 17:02:51.010] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 17:06:17.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Bonk!]
+[06Dec2024 17:12:56.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Knowledge raises the soul]
+[06Dec2024 17:14:21.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Not Today, Thank You]
+[06Dec2024 17:14:21.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has reached the goal [Bone Crusher]
+[06Dec2024 17:15:26.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Bone Knight
+[06Dec2024 17:15:26.658] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 17:16:28.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has reached the goal [Strong or Careful]
+[06Dec2024 17:16:28.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks froze to death
+[06Dec2024 17:16:28.108] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 17:17:03.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 17:17:09.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=572, y=62, z=151} BlockPos{x=572, y=62, z=152}
+[06Dec2024 17:19:09.683] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Madam Ubor the Lame'/9885, l='ServerLevel[world]', x=566.32, y=68.01, z=292.60] died: Madam Ubor the Lame died
+[06Dec2024 17:21:08.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 drowned
+[06Dec2024 17:21:09.005] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 17:21:12.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=512, y=65, z=329} BlockPos{x=511, y=65, z=327}
+[06Dec2024 17:21:18.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=512, y=66, z=334} BlockPos{x=512, y=64, z=335}
+[06Dec2024 17:21:25.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=512, y=66, z=336} BlockPos{x=512, y=65, z=334}
+[06Dec2024 17:21:57.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks froze to death
+[06Dec2024 17:21:57.416] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 17:22:04.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 17:22:13.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 17:22:15.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 17:22:16.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=486, y=66, z=336} BlockPos{x=487, y=64, z=335}
+[06Dec2024 17:22:18.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=488, y=62, z=336} BlockPos{x=485, y=62, z=336}
+[06Dec2024 17:22:19.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=488, y=62, z=336} BlockPos{x=488, y=62, z=337}
+[06Dec2024 17:22:19.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=488, y=62, z=336} BlockPos{x=488, y=62, z=337}
+[06Dec2024 17:22:19.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=486, y=61, z=337} BlockPos{x=486, y=59, z=337}
+[06Dec2024 17:22:30.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 17:22:41.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura froze to death
+[06Dec2024 17:22:41.052] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 17:22:53.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[06Dec2024 17:24:14.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 17:25:26.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capybarav2> Ew sticky
+[06Dec2024 17:26:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Spider
+[06Dec2024 17:26:49.422] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
