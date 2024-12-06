@@ -7230,51 +7230,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2024-12-06 19:04:54 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood": {
-    "criteria": {
-      "has_kitchen_hood": "2024-12-06 19:18:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/spout": {
-    "criteria": {
-      "has_item": "2024-12-06 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2024-12-06 18:48:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/content_observer": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/display_link": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-06 18:43:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/deployer": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:42 +0000"
     },
     "done": true
   },
@@ -7290,129 +7248,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/electron_tube": {
-    "criteria": {
-      "has_item": "2024-12-06 18:44:29 +0000"
-    },
-    "done": true
-  },
-  "create:rose_quartz": {
-    "criteria": {
-      "0": "2024-12-06 18:45:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-06 18:43:14 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/redstone_contact": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:15 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/steel_screw_lock": {
-    "criteria": {
-      "has_steel_ingot": "2024-12-06 19:16:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
-    "criteria": {
-      "has_kitchen_hood_pipe": "2024-12-06 19:18:19 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/decorations/steel_scaffolding_from_ingots_steel_stonecutting": {
-    "criteria": {
-      "has_ingots_steel": "2024-12-06 19:16:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:15 +0000"
-    },
-    "done": true
-  },
-  "create:copper_casing": {
-    "criteria": {
-      "0": "2024-12-06 19:17:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2024-12-06 18:59:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
-    "criteria": {
-      "has_item": "2024-12-06 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/semaphore": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:42 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/printer": {
-    "criteria": {
-      "has_item": "2024-12-06 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:15 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/steel_block": {
-    "criteria": {
-      "has_steel_block": "2024-12-06 19:16:11 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2024-12-06 18:43:14 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/decorations/steel_bars_from_ingots_steel_stonecutting": {
-    "criteria": {
-      "has_ingots_steel": "2024-12-06 19:16:11 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/brazier": {
-    "criteria": {
-      "has_bar": "2024-12-06 19:18:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
-    "criteria": {
-      "has_polished_rose_quartz": "2024-12-06 18:45:08 +0000"
     },
     "done": true
   },
@@ -7428,39 +7272,15 @@
     },
     "done": true
   },
-  "create_enchantment_industry:recipes/disenchanter": {
-    "criteria": {
-      "has_item": "2024-12-06 19:17:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-06 18:43:14 +0000"
     },
     "done": true
   },
-  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
-    "criteria": {
-      "has_item": "2024-12-06 19:16:11 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/quartz_dark": {
     "criteria": {
       "has_item": "2024-12-06 18:43:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2024-12-06 19:17:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:15 +0000"
     },
     "done": true
   },
@@ -7476,9 +7296,57 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/redstone_link": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_item": "2024-12-06 18:49:15 +0000"
+      "has_quartz": "2024-12-06 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/proximity_fuze": {
+    "criteria": {
+      "has_quartz": "2024-12-06 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2024-12-06 18:44:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2024-12-06 18:44:29 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-12-06 18:45:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-06 18:45:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2024-12-06 18:45:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-06 18:48:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2024-12-06 18:48:53 +0000"
     },
     "done": true
   },
@@ -7488,21 +7356,57 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/brass_door": {
+  "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2024-12-06 18:49:15 +0000"
     },
     "done": true
   },
-  "createbigcannons:recipes/misc/steel_sliding_breechblock": {
+  "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
-      "has_steel_ingot": "2024-12-06 19:16:11 +0000"
+      "has_item": "2024-12-06 18:49:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
-      "has_quartz": "2024-12-06 18:43:14 +0000"
+      "has_item": "2024-12-06 18:49:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2024-12-06 18:49:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2024-12-06 18:49:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2024-12-06 18:49:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2024-12-06 18:49:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2024-12-06 18:49:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2024-12-06 18:49:15 +0000"
     },
     "done": true
   },
@@ -7518,39 +7422,141 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2024-12-06 18:49:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2024-12-06 18:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2024-12-06 18:49:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/semaphore": {
+    "criteria": {
+      "has_item": "2024-12-06 18:49:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-06 18:59:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-06 19:04:54 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/steel_screw_lock": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-06 19:16:11 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_scaffolding_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-12-06 19:16:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2024-12-06 19:16:11 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_bars_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-12-06 19:16:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2024-12-06 19:16:11 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/steel_sliding_breechblock": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-06 19:16:11 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_ladder_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-12-06 19:16:11 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-12-06 19:17:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-12-06 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-12-06 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "has_item": "2024-12-06 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2024-12-06 19:17:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2024-12-06 19:17:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/item_drain": {
     "criteria": {
       "has_item": "2024-12-06 19:17:55 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+  "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
-      "has_rose_quartz": "2024-12-06 18:44:29 +0000"
+      "has_kitchen_hood": "2024-12-06 19:18:19 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
-      "has_polished_rose_quartz": "2024-12-06 18:45:08 +0000"
+      "has_kitchen_hood_pipe": "2024-12-06 19:18:19 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+  "decorative_blocks:recipes/decorations/brazier": {
     "criteria": {
-      "has_item": "2024-12-06 18:48:53 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/proximity_fuze": {
-    "criteria": {
-      "has_quartz": "2024-12-06 18:43:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/nixie_tube": {
-    "criteria": {
-      "has_item": "2024-12-06 18:49:15 +0000"
+      "has_bar": "2024-12-06 19:18:19 +0000"
     },
     "done": true
   },
@@ -7560,9 +7566,21 @@
     },
     "done": true
   },
-  "tfmg:recipes/decorations/steel_ladder_from_ingots_steel_stonecutting": {
+  "railways:recipes/misc/crafting/track_switch_brass": {
     "criteria": {
-      "has_ingots_steel": "2024-12-06 19:16:11 +0000"
+      "has_item": "2024-12-06 19:24:06 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2024-12-06 19:24:06 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-12-06 19:24:06 +0000"
     },
     "done": true
   },
