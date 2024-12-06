@@ -6704,6 +6704,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 19:37:59 +0000"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2024-12-06 17:06:49 +0000"
@@ -6935,6 +6941,12 @@
   "ad_astra:recipes/misc/etrionic_blast_furnace": {
     "criteria": {
       "has_etrionic_blast_furnace": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 19:38:20 +0000"
     },
     "done": true
   },
@@ -7277,6 +7289,12 @@
   "createdeco:recipes/decorations/brown_placard": {
     "criteria": {
       "has_item": "2024-12-06 18:56:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2024-12-06 19:39:31 +0000"
     },
     "done": true
   },

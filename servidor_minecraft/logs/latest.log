@@ -4774,3 +4774,63 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 19:23:59.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Complex Curiosities]
 [06Dec2024 19:24:06.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Complex Curiosities]
 [06Dec2024 19:25:53.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 19:36:17.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 19:37:59.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has reached the goal [Strong or Careful]
+[06Dec2024 19:37:59.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by capybarav2
+[06Dec2024 19:37:59.397] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 19:38:20.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Knowledge raises the soul]
+[06Dec2024 19:39:04.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Minecraft Comes Alive]
+[06Dec2024 19:39:16.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 19:39:24.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks froze to death
+[06Dec2024 19:39:24.964] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 19:39:51.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
+[06Dec2024 19:39:51.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
+[06Dec2024 19:39:51.598] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 19:40:01.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 19:40:02.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 19:40:02.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 19:40:18.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
+[06Dec2024 19:40:18.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
+[06Dec2024 19:40:18.780] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 19:40:28.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Disconnected
+[06Dec2024 19:40:28.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
+[06Dec2024 19:40:28.091] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Secrethaks
+[06Dec2024 19:40:44.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Secrethaks[/100.69.93.126:55636] logged in with entity id 50332 at (728.0100046019903, 77.87020087700593, 63.952991459295255)
+[06Dec2024 19:40:44.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks joined the game
+[06Dec2024 19:40:44.211] [Server thread/INFO] [Jade/]: Syncing config to Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a)
+[06Dec2024 19:40:44.453] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Secrethaks (18)
+[06Dec2024 19:40:44.453] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 19:40:54.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 19:40:55.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 19:40:55.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 19:42:09.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Spectator Mode]
+[06Dec2024 19:42:40.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 19:42:50.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 735.500000, 79.500000, 78.500000]
+[06Dec2024 19:42:53.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 19:43:28.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Set own game mode to Survival Mode]
+[06Dec2024 19:43:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 735.500000, 79.500000, 78.500000]
+[06Dec2024 19:44:32.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 19:44:39.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 735.500000, 79.500000, 78.500000]
+[06Dec2024 19:44:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 19:44:53.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 735.500000, 79.500000, 78.500000]
+[06Dec2024 19:45:03.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
+[06Dec2024 19:45:03.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
+[06Dec2024 19:45:03.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 19:45:03.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 19:45:10.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! 9.214845050045255,0.5,4.544169180825548
+[06Dec2024 19:45:12.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 19:45:13.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 19:45:13.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 19:45:36.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Tusklin
+[06Dec2024 19:45:36.977] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 19:45:57.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Light as a Rabbit]
+[06Dec2024 19:46:08.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [The sea is full.]
+[06Dec2024 19:47:59.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Dec2024 19:48:20.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5287ms or 105 ticks behind
+[06Dec2024 19:48:39.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4530ms or 90 ticks behind
+[06Dec2024 19:48:39.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[06Dec2024 19:48:40.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was killed
+[06Dec2024 19:48:40.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Killed capybarav2]
+[06Dec2024 19:48:40.462] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 19:48:47.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 19:48:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has reached the goal [Easy Opening]
