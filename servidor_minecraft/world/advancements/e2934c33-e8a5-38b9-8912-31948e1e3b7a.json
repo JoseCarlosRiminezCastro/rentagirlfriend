@@ -6633,6 +6633,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-06 18:33:29 +0000"
@@ -6651,6 +6657,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2024-12-06 18:23:46 +0000"
@@ -6663,9 +6675,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-06 18:23:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-06 18:47:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:11 +0000"
     },
     "done": true
   },
@@ -6675,9 +6705,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-06 18:38:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
     },
     "done": true
   },
@@ -6693,9 +6735,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/stone_cross": {
     "criteria": {
       "has_planks": "2024-12-06 18:23:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
     },
     "done": true
   },
@@ -6705,9 +6759,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-06 18:47:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/wooden_cross": {
     "criteria": {
       "has_planks": "2024-12-06 18:23:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:10 +0000"
     },
     "done": true
   },
@@ -6729,9 +6819,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-06 18:47:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-06 18:38:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
     },
     "done": true
   },
@@ -6765,9 +6867,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-06 18:23:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
     },
     "done": true
   },
@@ -6819,6 +6939,18 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/steel_screw_lock": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-06 18:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-06 18:47:12 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/soulspring_lamp": {
     "criteria": {
       "has_item": "2024-12-06 18:24:29 +0000"
@@ -6849,6 +6981,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/decorations/steel_scaffolding_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-12-06 18:53:46 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/stone_pillar": {
     "criteria": {
       "has_stone": "2024-12-06 18:23:46 +0000"
@@ -6858,6 +6996,12 @@
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2024-12-06 18:23:46 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_cauldron": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:47:09 +0000"
     },
     "done": true
   },
@@ -6873,6 +7017,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2024-12-06 18:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-06 18:20:18 +0000"
@@ -6885,9 +7041,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-06 18:23:46 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_bars_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-12-06 18:53:46 +0000"
     },
     "done": true
   },
@@ -6927,6 +7095,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2024-12-06 18:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-06 18:20:18 +0000"
@@ -6948,6 +7122,18 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-06 18:20:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
     },
     "done": true
   },
@@ -6975,9 +7161,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2024-12-06 18:23:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-12-06 18:47:10 +0000"
     },
     "done": true
   },
@@ -7005,6 +7203,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
   "expandedstorage:recipes/misc/vanilla_wood_mini_chest": {
     "criteria": {
       "has_item": "2024-12-06 17:59:14 +0000"
@@ -7014,6 +7218,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-06 18:23:46 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/steel_sliding_breechblock": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-06 18:53:46 +0000"
     },
     "done": true
   },
@@ -7032,6 +7242,12 @@
   "expandedstorage:recipes/misc/storage_mutator": {
     "criteria": {
       "has_chest": "2024-12-06 17:59:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:10 +0000"
     },
     "done": true
   },
@@ -7107,6 +7323,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-06 18:00:13 +0000"
@@ -7149,9 +7371,27 @@
     },
     "done": true
   },
+  "tfmg:recipes/decorations/steel_ladder_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-12-06 18:53:46 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2024-12-06 18:47:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-12-06 18:47:10 +0000"
     },
     "done": true
   },
