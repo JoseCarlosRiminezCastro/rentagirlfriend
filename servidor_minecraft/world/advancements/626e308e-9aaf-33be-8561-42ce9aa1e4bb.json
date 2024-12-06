@@ -3819,6 +3819,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-06 14:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-06 14:24:30 +0000"
@@ -3879,6 +3885,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 14:41:49 +0000"
+    },
+    "done": true
+  },
   "createoreexcavation:recipes/misc/diamond_drill": {
     "criteria": {
       "diamond": "2024-12-06 14:24:30 +0000"
@@ -3906,6 +3918,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-06 14:24:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 14:41:49 +0000"
     },
     "done": true
   },
@@ -3945,6 +3963,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 14:41:49 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:survival_tactics": {
     "criteria": {
       "freezing_on_fire": "2024-12-06 14:36:35 +0000"
@@ -3975,6 +3999,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/ender_eye": {
+    "criteria": {
+      "kill": "2024-12-06 14:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-06 14:37:57 +0000"
@@ -3996,6 +4026,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-06 14:24:30 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-06 14:41:49 +0000"
     },
     "done": true
   },
@@ -4116,6 +4152,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2024-12-06 14:26:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 14:41:49 +0000"
     },
     "done": true
   },

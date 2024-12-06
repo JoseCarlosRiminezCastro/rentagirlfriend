@@ -4717,3 +4717,63 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 14:38:58.878] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
 [06Dec2024 14:39:45.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Diamond Termite
 [06Dec2024 14:39:45.632] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:41:46.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Skeleton
+[06Dec2024 14:41:46.982] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 14:42:34.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre has reached the goal [Fighting Nightmares]
+[06Dec2024 14:42:46.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Zombie
+[06Dec2024 14:42:46.782] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 14:43:15.935] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[06Dec2024 14:43:18.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [A Bone to Pick]
+[06Dec2024 14:43:27.141] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[06Dec2024 14:43:31.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Not Today, Thank You]
+[06Dec2024 14:43:35.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Skeleton
+[06Dec2024 14:43:35.287] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:43:57.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Skeleton
+[06Dec2024 14:43:57.183] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:44:09.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[06Dec2024 14:44:22.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Deathword
+[06Dec2024 14:44:22.030] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 14:44:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Alambre
+[06Dec2024 14:44:33.447] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 14:44:35.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Skeleton
+[06Dec2024 14:44:35.793] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 14:44:36.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Skeleton
+[06Dec2024 14:44:37.035] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:44:43.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Skeleton
+[06Dec2024 14:44:43.805] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 14:44:55.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06Dec2024 14:44:57.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre froze to death
+[06Dec2024 14:44:58.000] [Server thread/INFO] [tombstone/]: The player Alambre has successfully been saved
+[06Dec2024 14:45:02.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Skeleton
+[06Dec2024 14:45:02.365] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:45:17.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 moved too quickly! -0.2874938703584178,-10.549589679730222,1.188993786870924
+[06Dec2024 14:45:17.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alambre moved too quickly! 1.5009549166912848,1.1661092609382138,9.973960827390954
+[06Dec2024 14:45:17.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[06Dec2024 14:45:30.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Skeleton
+[06Dec2024 14:45:30.288] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:45:35.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alambre lost connection: Disconnected
+[06Dec2024 14:45:35.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alambre left the game
+[06Dec2024 14:45:35.106] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alambre
+[06Dec2024 14:45:51.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Skeleton
+[06Dec2024 14:45:51.202] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:46:51.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Skeleton
+[06Dec2024 14:46:51.432] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:46:55.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to Secrethaks]
+[06Dec2024 14:47:03.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[06Dec2024 14:47:09.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Skeleton
+[06Dec2024 14:47:09.618] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:47:24.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to Secrethaks]
+[06Dec2024 14:48:16.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has reached the goal [Worthy Equipment]
+[06Dec2024 14:48:23.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Spider
+[06Dec2024 14:48:23.489] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 14:48:31.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Spider
+[06Dec2024 14:48:31.098] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 14:48:39.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Weeeee.]
+[06Dec2024 14:48:42.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Spider
+[06Dec2024 14:48:42.811] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 14:49:21.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [The Secrets of Enchanting]
+[06Dec2024 14:49:36.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Skeleton
+[06Dec2024 14:49:36.896] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 14:49:47.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Skeleton
+[06Dec2024 14:49:47.684] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:50:01.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! -9.521972078202879,0.5,3.5930139043270515
