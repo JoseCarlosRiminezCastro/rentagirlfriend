@@ -4723,3 +4723,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 18:34:21.928] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
 [06Dec2024 18:36:30.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
 [06Dec2024 18:37:32.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Bonk!]
+[06Dec2024 18:40:14.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [The Brass Age]
+[06Dec2024 18:42:24.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capybarav2[/100.122.160.49:52627] logged in with entity id 44202 at (634.1151601516032, 60.0, 264.8118558383265)
+[06Dec2024 18:42:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 joined the game
+[06Dec2024 18:42:24.353] [Server thread/INFO] [Jade/]: Syncing config to capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc)
+[06Dec2024 18:42:24.521] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capybarav2 (18)
+[06Dec2024 18:42:24.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capybarav2
+[06Dec2024 18:42:39.357] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9737ce4-44fe-342c-97a8-c7e386862dbc
+[06Dec2024 18:42:40.421] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f9737ce4-44fe-342c-97a8-c7e386862dbc
+[06Dec2024 18:42:40.421] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capybarav2 (f9737ce4-44fe-342c-97a8-c7e386862dbc) successfully connected to voice chat
+[06Dec2024 18:49:13.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [The Brass Age]
