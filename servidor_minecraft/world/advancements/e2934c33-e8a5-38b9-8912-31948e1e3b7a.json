@@ -202,6 +202,8 @@
       "minecraft:taiga": "2024-12-04 22:37:09 +0000",
       "minecraft:snowy_taiga": "2024-12-06 13:31:31 +0000",
       "minecraft:lush_caves": "2024-12-06 13:59:50 +0000",
+      "minecraft:frozen_ocean": "2024-12-06 14:56:15 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-06 14:58:14 +0000",
       "minecraft:snowy_beach": "2024-12-04 22:35:06 +0000"
     },
     "done": false
@@ -1495,7 +1497,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-06 15:05:48 +0000",
       "minecraft:skeleton": "2024-12-06 13:34:03 +0000",
+      "minecraft:vindicator": "2024-12-06 15:08:39 +0000",
       "minecraft:spider": "2024-12-06 13:37:42 +0000",
       "minecraft:witch": "2024-12-06 13:37:38 +0000",
       "minecraft:cave_spider": "2024-12-06 14:37:07 +0000",
@@ -3766,15 +3770,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-06 15:08:53 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/phantom_helmet": {
     "criteria": {
       "has_phantom_membrane": "2024-12-06 14:22:52 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/copper_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 15:04:03 +0000"
     },
     "done": true
   },
@@ -3916,6 +3938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_fluxfield": {
     "criteria": {
       "has_alt_item": "2024-12-06 14:48:34 +0000"
@@ -3935,15 +3963,33 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-06 14:58:14 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/pump": {
     "criteria": {
       "has_item": "2024-12-06 14:48:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-06 15:08:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2024-12-06 14:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -3992,6 +4038,12 @@
   "botania:recipes/tools/ice_pendant": {
     "criteria": {
       "has_item": "2024-12-06 14:48:34 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/gold_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 15:04:03 +0000"
     },
     "done": true
   },
@@ -4133,6 +4185,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2024-12-06 15:07:42 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/bricks": {
     "criteria": {
       "has_the_recipe": "2024-12-06 14:33:06 +0000"
@@ -4160,6 +4218,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/obsidian_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 15:04:03 +0000"
     },
     "done": true
   },
@@ -4241,6 +4305,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-06 14:49:21 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/witch_hat_wall_deco_2": {
     "criteria": {
       "has_planks": "2024-12-06 14:45:08 +0000"
@@ -4256,6 +4326,24 @@
   "smallships:recipes/transportation/mangrove_brigg": {
     "criteria": {
       "in_water": "2024-12-06 14:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 15:08:53 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/iron_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 15:04:03 +0000"
     },
     "done": true
   },
@@ -4307,6 +4395,12 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_previous_block": "2024-12-06 15:04:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2024-12-06 14:48:34 +0000"
@@ -4316,6 +4410,18 @@
   "knightquest:recipes/misc/sea_chestplate": {
     "criteria": {
       "has_phantom_membrane": "2024-12-06 14:22:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet2": {
+    "criteria": {
+      "has_emerald": "2024-12-06 15:08:56 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate2_helmet": {
+    "criteria": {
+      "has_red_carpet": "2024-12-06 15:00:18 +0000"
     },
     "done": true
   },
@@ -4334,6 +4440,12 @@
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-06 14:33:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2024-12-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -4427,6 +4539,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2024-12-06 14:48:34 +0000"
@@ -4436,6 +4554,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-06 14:45:08 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/diamond_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 15:04:03 +0000"
     },
     "done": true
   },
@@ -4505,6 +4629,18 @@
     },
     "done": true
   },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-12-06 15:07:42 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2024-12-06 15:08:56 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2024-12-06 14:33:06 +0000"
@@ -4559,6 +4695,12 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-12-06 15:05:28 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2024-12-06 14:33:06 +0000"
@@ -4589,6 +4731,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-06 15:04:03 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2024-12-06 14:33:06 +0000"
@@ -4607,9 +4755,21 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/netherite_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 15:04:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-06 14:33:06 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-06 15:04:03 +0000"
     },
     "done": true
   },
@@ -4646,6 +4806,12 @@
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2024-12-06 14:33:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-06 15:04:03 +0000"
     },
     "done": true
   },

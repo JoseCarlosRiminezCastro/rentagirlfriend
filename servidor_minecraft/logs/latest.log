@@ -4777,3 +4777,68 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 14:49:47.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Skeleton
 [06Dec2024 14:49:47.684] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
 [06Dec2024 14:50:01.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! -9.521972078202879,0.5,3.5930139043270515
+[06Dec2024 14:51:53.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[06Dec2024 14:56:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Oni
+[06Dec2024 14:56:30.266] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:56:58.331] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[06Dec2024 14:57:25.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 went up in flames
+[06Dec2024 14:57:25.217] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 14:57:30.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks froze to death
+[06Dec2024 14:57:30.396] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 14:57:56.338] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[06Dec2024 14:58:14.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Ice Maze]
+[06Dec2024 14:58:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Ice Maze]
+[06Dec2024 14:58:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Vindicator
+[06Dec2024 14:58:19.633] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 14:59:03.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura went off with a bang
+[06Dec2024 14:59:03.825] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:00:07.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Ambush]
+[06Dec2024 15:00:10.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks went off with a bang
+[06Dec2024 15:00:10.977] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 15:00:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Vindicator
+[06Dec2024 15:00:36.083] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:00:50.314] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b30a7df[id=<null>,name=Alambre,properties={},legacy=false] (/100.92.180.47:56721) lost connection: Disconnected
+[06Dec2024 15:02:10.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Illusioner
+[06Dec2024 15:02:10.476] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:02:33.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Diamonds!]
+[06Dec2024 15:02:39.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Illusioner
+[06Dec2024 15:02:39.924] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:02:46.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 froze to death
+[06Dec2024 15:02:46.280] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 15:02:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Vindicator
+[06Dec2024 15:02:54.890] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:03:07.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to Secrethaks]
+[06Dec2024 15:03:11.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [Cover Me with Diamonds]
+[06Dec2024 15:03:20.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Illusioner
+[06Dec2024 15:03:20.521] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:03:33.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Vindicator
+[06Dec2024 15:03:33.286] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:04:18.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Illusioner
+[06Dec2024 15:04:18.075] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:04:49.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Uwe'/29513, l='ServerLevel[world]', x=85.74, y=73.50, z=84.95] died, message: 'Uwe went off with a bang'
+[06Dec2024 15:04:49.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Uwe'/29513, l='ServerLevel[world]', x=85.74, y=73.50, z=84.95] died: Uwe went off with a bang
+[06Dec2024 15:05:19.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks froze to death
+[06Dec2024 15:05:19.982] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 15:06:07.209] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[06Dec2024 15:06:12.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06Dec2024 15:06:40.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 15:06:50.546] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[06Dec2024 15:07:32.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [IT'S A STICK]
+[06Dec2024 15:07:42.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Exploration]
+[06Dec2024 15:08:17.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Vindicator
+[06Dec2024 15:08:17.481] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:08:21.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 froze to death
+[06Dec2024 15:08:21.640] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 15:08:30.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Vindicator
+[06Dec2024 15:08:30.311] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:08:37.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Vindicator
+[06Dec2024 15:08:37.733] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 15:08:41.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Vindicator
+[06Dec2024 15:08:41.860] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 15:08:45.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[06Dec2024 15:08:46.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 15:08:53.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has reached the goal [Fortuitous Militia]
+[06Dec2024 15:08:53.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks has made the advancement [Voluntary Exile]
+[06Dec2024 15:09:20.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Almost Like a Fan]
+[06Dec2024 15:09:48.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has reached the goal [Fortuitous Militia]
+[06Dec2024 15:09:59.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [Isn't It Iron Pick]

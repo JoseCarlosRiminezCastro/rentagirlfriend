@@ -1749,6 +1749,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-06 13:42:33 +0000",
+      "minecraft:vindicator": "2024-12-06 15:00:07 +0000",
       "minecraft:spider": "2024-12-06 14:00:02 +0000",
       "minecraft:cave_spider": "2024-12-06 14:03:36 +0000",
       "minecraft:zombie": "2024-12-06 13:26:20 +0000"
@@ -4426,6 +4427,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-06 15:03:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 14:47:57 +0000"
@@ -4435,6 +4442,12 @@
   "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-06 14:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-06 15:02:51 +0000"
     },
     "done": true
   },
@@ -4480,6 +4493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-06 15:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 14:47:57 +0000"
@@ -4498,6 +4517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-06 14:57:49 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_golden_apple": "2024-12-06 14:29:18 +0000"
@@ -4513,6 +4538,12 @@
   "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_dune_armor_trim_smithing_template": "2024-12-06 14:46:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 15:00:07 +0000"
     },
     "done": true
   },
@@ -4597,6 +4628,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-06 14:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-06 15:00:56 +0000"
     },
     "done": true
   },
@@ -4735,6 +4772,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 14:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-06 14:51:34 +0000"
     },
     "done": true
   },
