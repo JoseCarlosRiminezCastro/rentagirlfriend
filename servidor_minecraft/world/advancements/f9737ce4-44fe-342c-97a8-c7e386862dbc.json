@@ -1267,6 +1267,7 @@
       "minecraft:vindicator": "2024-12-06 15:03:53 +0000",
       "minecraft:spider": "2024-12-06 13:38:11 +0000",
       "minecraft:witch": "2024-12-06 13:38:52 +0000",
+      "minecraft:wither_skeleton": "2024-12-06 17:48:15 +0000",
       "minecraft:cave_spider": "2024-12-06 14:35:33 +0000",
       "minecraft:zombie": "2024-12-06 13:36:09 +0000"
     },
@@ -5152,6 +5153,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-06 17:46:47 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
@@ -5344,6 +5351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 17:47:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-06 17:18:15 +0000"
@@ -5446,6 +5459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 17:47:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2024-12-06 17:07:31 +0000"
@@ -5524,6 +5543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 17:47:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2024-12-06 16:53:57 +0000"
@@ -5545,6 +5570,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-06 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-06 17:47:53 +0000"
     },
     "done": true
   },
@@ -5650,6 +5681,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-06 17:46:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
@@ -5734,6 +5771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 17:47:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
@@ -5800,6 +5843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 17:47:40 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_top_left": {
     "criteria": {
       "has_item": "2024-12-06 17:07:31 +0000"
@@ -5833,6 +5882,12 @@
   "decorative_blocks:recipes/building_blocks/spruce_beam": {
     "criteria": {
       "has_stripped_log": "2024-12-06 16:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 17:47:40 +0000"
     },
     "done": true
   },
@@ -5884,6 +5939,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-06 17:15:47 +0000"
@@ -5917,6 +5978,12 @@
   "bloodmagic:recipes/misc/blood_altar": {
     "criteria": {
       "has_gold": "2024-12-06 17:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 17:47:40 +0000"
     },
     "done": true
   },
@@ -5977,6 +6044,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-06 17:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 17:47:37 +0000"
     },
     "done": true
   },
@@ -6400,6 +6473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 17:47:40 +0000"
+    },
+    "done": true
+  },
   "expandedstorage:recipes/misc/iron_chest": {
     "criteria": {
       "has_previous_block": "2024-12-06 16:40:33 +0000"
@@ -6409,6 +6488,12 @@
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-06 16:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 17:47:40 +0000"
     },
     "done": true
   },
@@ -6430,6 +6515,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2024-12-06 17:47:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
@@ -6439,6 +6530,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-06 17:47:39 +0000"
     },
     "done": true
   },
@@ -6592,6 +6689,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 17:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 17:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-06 17:47:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2024-12-06 16:53:57 +0000"
@@ -6670,6 +6785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 17:47:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
@@ -6724,6 +6845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-06 17:47:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
@@ -6751,6 +6878,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2024-12-06 16:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-06 17:46:44 +0000"
     },
     "done": true
   },

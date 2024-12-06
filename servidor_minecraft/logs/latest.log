@@ -4628,3 +4628,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 17:47:33.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
 [06Dec2024 17:47:33.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
 [06Dec2024 17:47:33.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 17:47:39.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[06Dec2024 17:47:39.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 has made the advancement [A Terrible Fortress]
+[06Dec2024 17:47:41.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 17:47:42.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 17:47:42.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 17:47:58.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4529ms or 90 ticks behind
+[06Dec2024 17:48:17.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[06Dec2024 17:48:17.099] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 17:48:18.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[06Dec2024 17:48:20.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 died of heatstroke
+[06Dec2024 17:48:20.815] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 17:48:36.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [We Need to Go Deeper]
+[06Dec2024 17:48:37.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
+[06Dec2024 17:48:37.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
+[06Dec2024 17:48:37.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 17:48:44.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks moved too quickly! -8.835460872841566,0.0,4.981002347997588
+[06Dec2024 17:48:44.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 17:48:45.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Wither Skeleton
+[06Dec2024 17:48:45.041] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 17:48:45.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 17:48:45.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 17:48:58.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Wither Skeleton
+[06Dec2024 17:48:58.521] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 17:49:01.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by Zombie
+[06Dec2024 17:49:01.034] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 17:49:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 17:49:06.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura has made the advancement [A Terrible Fortress]
+[06Dec2024 17:49:08.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 was slain by Wither Skeleton
+[06Dec2024 17:49:08.583] [Server thread/INFO] [tombstone/]: The player capybarav2 has successfully been saved
+[06Dec2024 17:49:09.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Wither Skeleton
+[06Dec2024 17:49:09.769] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 17:49:33.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Nether Bat
+[06Dec2024 17:49:33.970] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 17:49:34.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Secrethaks: Teleported Secrethaks to 615.500000, 60.500000, 262.500000]
+[06Dec2024 17:49:36.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported capybarav2 to nezmanmatalaura]
+[06Dec2024 17:49:43.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [capybarav2: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 17:55:15.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by capybarav2
+[06Dec2024 17:55:15.605] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 17:55:32.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
