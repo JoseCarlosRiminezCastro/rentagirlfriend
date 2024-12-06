@@ -4667,3 +4667,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [06Dec2024 17:55:15.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks was slain by capybarav2
 [06Dec2024 17:55:15.605] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
 [06Dec2024 17:55:32.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 17:57:59.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e2934c33-e8a5-38b9-8912-31948e1e3b7a timed out
+[06Dec2024 17:57:59.554] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Secrethaks
+[06Dec2024 17:57:59.554] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 17:58:22.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Secrethaks lost connection: Disconnected
+[06Dec2024 17:58:22.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks left the game
+[06Dec2024 17:58:22.604] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Secrethaks
+[06Dec2024 17:58:25.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Secrethaks[/100.69.93.126:52267] logged in with entity id 34969 at (616.630201031684, 71.5, 255.8752601466682)
+[06Dec2024 17:58:25.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks joined the game
+[06Dec2024 17:58:25.637] [Server thread/INFO] [Jade/]: Syncing config to Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a)
+[06Dec2024 17:58:26.027] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Secrethaks (18)
+[06Dec2024 17:58:26.029] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Secrethaks
+[06Dec2024 17:58:36.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 17:58:37.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e2934c33-e8a5-38b9-8912-31948e1e3b7a
+[06Dec2024 17:58:37.002] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Secrethaks (e2934c33-e8a5-38b9-8912-31948e1e3b7a) successfully connected to voice chat
+[06Dec2024 17:59:57.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura fell from a high place
+[06Dec2024 17:59:57.412] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:01:14.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to capybarav2]
+[06Dec2024 18:06:08.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capybarav2 lost connection: Disconnected
+[06Dec2024 18:06:08.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capybarav2 left the game
+[06Dec2024 18:06:08.539] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capybarav2
+[06Dec2024 18:06:22.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was slain by Assasin Black Ops
+[06Dec2024 18:06:22.936] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved
+[06Dec2024 18:06:33.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Secrethaks froze to death
+[06Dec2024 18:06:33.248] [Server thread/INFO] [tombstone/]: The player Secrethaks has successfully been saved
+[06Dec2024 18:06:55.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nezmanmatalaura: Teleported nezmanmatalaura to Secrethaks]
+[06Dec2024 18:07:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nezmanmatalaura was shot by Skeleton
+[06Dec2024 18:07:52.570] [Server thread/INFO] [tombstone/]: The player nezmanmatalaura has successfully been saved

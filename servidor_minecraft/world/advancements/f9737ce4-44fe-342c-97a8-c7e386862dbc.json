@@ -5111,6 +5111,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/horn_boots": {
     "criteria": {
       "has_sand": "2024-12-06 16:40:26 +0000"
@@ -5126,6 +5132,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-06 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -5159,6 +5171,12 @@
     },
     "done": false
   },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
@@ -5183,6 +5201,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2024-12-06 16:53:57 +0000"
@@ -5198,6 +5222,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-06 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -5231,6 +5261,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_bars": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2024-12-06 17:19:24 +0000"
@@ -5240,6 +5276,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 17:11:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -5294,6 +5336,12 @@
   "createdeco:recipes/decorations/andesite_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -5369,6 +5417,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2024-12-06 16:53:57 +0000"
@@ -5390,6 +5444,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-06 17:27:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -5432,6 +5492,12 @@
   "railways:recipes/misc/crafting/track_switch_andesite": {
     "criteria": {
       "has_item": "2024-12-06 16:53:57 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -5528,6 +5594,12 @@
   "createdeco:recipes/decorations/decal_left": {
     "criteria": {
       "has_item": "2024-12-06 17:07:31 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -5669,6 +5741,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/brass_truss_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-06 16:31:57 +0000"
@@ -5756,6 +5834,12 @@
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-06 16:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -5897,6 +5981,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/building_blocks/brass_window": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
@@ -5981,6 +6071,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-06 17:47:40 +0000"
@@ -6032,6 +6128,12 @@
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2024-12-06 16:31:57 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -6233,6 +6335,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_door": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-06 16:49:57 +0000"
@@ -6266,6 +6374,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 17:11:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -6341,6 +6455,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "expandedstorage:recipes/misc/copper_barrel": {
     "criteria": {
       "has_previous_block": "2024-12-06 16:40:24 +0000"
@@ -6374,6 +6494,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-06 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -6512,6 +6638,12 @@
   "createdeco:recipes/decorations/decal_radioactive": {
     "criteria": {
       "has_item": "2024-12-06 17:07:31 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_support": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -6755,6 +6887,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
@@ -6782,6 +6920,12 @@
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2024-12-06 17:07:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -6842,6 +6986,12 @@
   "createdeco:recipes/building_blocks/andesite_window": {
     "criteria": {
       "has_item": "2024-12-06 16:35:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },
@@ -6941,9 +7091,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/brass_frame_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-06 18:04:18 +0000"
+    },
+    "done": true
+  },
   "expandedstorage:recipes/misc/moss_chest": {
     "criteria": {
       "has_previous_block": "2024-12-06 16:40:33 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:18 +0000"
     },
     "done": true
   },

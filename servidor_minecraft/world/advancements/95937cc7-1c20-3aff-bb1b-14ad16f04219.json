@@ -6013,9 +6013,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/zinc_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-06 17:56:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -6025,9 +6049,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -6049,6 +6091,12 @@
     },
     "done": false
   },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6058,6 +6106,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
     },
     "done": true
   },
@@ -6073,9 +6127,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_up": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-12-06 18:03:07 +0000"
     },
     "done": true
   },
@@ -6109,9 +6187,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2024-12-06 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
     },
     "done": true
   },
@@ -6133,6 +6229,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2024-12-06 17:04:26 +0000"
@@ -6151,15 +6253,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_electrical": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/granite_castel_tile_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/create.base/crafting/cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -6187,9 +6313,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_down": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-12-06 18:04:14 +0000"
     },
     "done": true
   },
@@ -6205,15 +6343,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-06 17:33:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 18:00:12 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/stone_cross": {
     "criteria": {
       "has_planks": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -6259,6 +6421,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2024-12-06 17:35:33 +0000"
@@ -6268,6 +6436,12 @@
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -6283,9 +6457,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-06 17:56:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-06 18:01:58 +0000"
     },
     "done": true
   },
@@ -6331,6 +6517,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/granite_castel_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/andesite_trapdoor": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6352,6 +6544,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-06 17:50:07 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
     },
     "done": true
   },
@@ -6391,6 +6589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/framed_glass_door": {
     "criteria": {
       "has_item": "2024-12-06 17:35:51 +0000"
@@ -6418,6 +6622,12 @@
   "ad_astra:recipes/misc/iron_factory_block": {
     "criteria": {
       "has_iron_factory_block": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/granite_castel_tile_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -6517,6 +6727,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/brass_truss_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-06 17:33:25 +0000"
@@ -6589,6 +6805,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6631,9 +6853,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/zinc_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/cannon_welder": {
     "criteria": {
       "has_blaze_burner": "2024-12-06 17:49:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -6721,6 +6955,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/brass_window": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6730,6 +6976,30 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2024-12-06 16:38:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
     },
     "done": true
   },
@@ -6745,9 +7015,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_bars": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-06 16:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -6781,9 +7069,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/andesite_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
     },
     "done": true
   },
@@ -6811,9 +7111,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-06 17:38:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/zinc_window": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
     },
     "done": true
   },
@@ -6838,6 +7156,12 @@
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
     },
     "done": true
   },
@@ -6919,6 +7243,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/shaftless_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -6991,6 +7321,30 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_door": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/granite_castel_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/large_shaftless_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -7006,6 +7360,12 @@
   "createdeco:recipes/decorations/andesite_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_support": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
     },
     "done": true
   },
@@ -7039,6 +7399,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 18:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2024-12-06 16:43:42 +0000"
@@ -7051,15 +7429,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "extendedgears:recipes/extendedgears/crafting/half_shaft_cogwheel": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_skull": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
     },
     "done": true
   },
@@ -7105,9 +7507,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_flow": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -7120,6 +7534,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-06 17:38:18 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/granite_castel_tiles_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -7141,6 +7561,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/zinc_frame_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -7156,6 +7582,12 @@
   "createdeco:recipes/decorations/decal_radioactive": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_support": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
     },
     "done": true
   },
@@ -7243,6 +7675,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/granite_castel_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
@@ -7267,6 +7705,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/zinc_ladder_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2024-12-06 17:50:07 +0000"
@@ -7276,6 +7726,24 @@
   "create:andesite_casing": {
     "criteria": {
       "0": "2024-12-06 16:43:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -7315,9 +7783,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/pink_shipping_container": {
     "criteria": {
       "has_item": "2024-12-06 17:06:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
     },
     "done": true
   },
@@ -7336,6 +7822,12 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2024-12-06 16:34:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -7369,6 +7861,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-06 17:38:17 +0000"
@@ -7390,6 +7888,12 @@
   "createdeco:recipes/decorations/andesite_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
     },
     "done": true
   },
@@ -7417,15 +7921,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/zinc_door": {
+    "criteria": {
+      "has_item": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2024-12-06 16:43:27 +0000"
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/granite_castel_tile_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/andesite_window": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
     },
     "done": true
   },
@@ -7489,9 +8011,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2024-12-06 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
     },
     "done": true
   },
@@ -7513,6 +8047,12 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/zinc_truss_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-06 18:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-06 17:35:33 +0000"
@@ -7528,6 +8068,18 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2024-12-06 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/brass_frame_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-06 18:04:14 +0000"
     },
     "done": true
   },
@@ -7564,6 +8116,12 @@
   "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2024-12-06 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-06 18:04:14 +0000"
     },
     "done": true
   },
@@ -7618,6 +8176,18 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-06 17:33:25 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/granite_castel_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2024-12-06 18:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 18:00:12 +0000"
     },
     "done": true
   },
